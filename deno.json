@@ -1,6 +1,9 @@
 {
   "tasks": {
-    "day1": "deno run --watch --allow-read day1/main.ts"
+    "day1": "deno run --watch --allow-read day1/main.ts",
+    "day2": "deno run --watch --allow-read day2/main.ts",
+    "day3": "deno run --watch --allow-read day3/main.ts",
+    "day4": "deno run --watch --allow-read day4/main.ts"
   },
   "imports": {
     "@std/path": "jsr:@std/path@^1.0.8"
